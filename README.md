@@ -4,4 +4,6 @@ In questo repository si trova il dump di un database (`SQLite3`) che contiene i 
 
 Questo repository è aggiornato automaticamente, entro 24 ore, in corrispondenza degli aggiornamenti rilasciati da IK2ANE.
 
-La licenza d'uso di questi dati è quella indicata da IK2ANE nella sua pagina web.
+## Licenza d'uso
+
+La licenza d'uso di questi dati è quella indicata da IK2ANE nella sua pagina web sopra riportata, indicata anche nel file scaricabile [`pontixls.xls`](http://www.ik2ane.it/pontixls.xls).
