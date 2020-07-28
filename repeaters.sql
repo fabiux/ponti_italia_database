@@ -35,7 +35,7 @@ INSERT INTO repeaters VALUES('E','144,937.5','0','82.5','1 piemonte','AL','Losio
 INSERT INTO repeaters VALUES('RV','144,987.5','+1.0 MHz','','1 piemonte','TO','Torino','DS','IR1CJ','','JN35UB','iw1gap');
 INSERT INTO repeaters VALUES('RV','145,287.5','-600 kHz','','1 piemonte','AT','Montaldo Scarampi (AT)','C4FM','IR1DH','','JN44DT','iz1jvh');
 INSERT INTO repeaters VALUES('RV','145,475.0','-600 kHz','110.9','1 piemonte','AL','Fraconalto (AL)','','IU1GAA','','JN44KO','iu1gaa');
-INSERT INTO repeaters VALUES('RV','145,487.5','-600 kHz','82.5','1 piemonte','CN','Paroldo (CN)','','','','JN44AK','ik1ipu');
+INSERT INTO repeaters VALUES('RV','145,487.5','-600 kHz','82.5','1 piemonte','CN','Paroldo (CN)','','IU1HHK','','JN44AK','iu1hhk');
 INSERT INTO repeaters VALUES('RV-1','145,575.0','-600 kHz','82.5','1 piemonte','CN','Neviglie (CN)','','','','JN44BQ','ari alba iz1ryi');
 INSERT INTO repeaters VALUES('RV-1a','145,587.5','-600 kHz','131.8','1 piemonte','VB','M. Cimolo (VB)','','','','JN45HX','ari verbania');
 INSERT INTO repeaters VALUES('R0','145,600.0','-600 kHz','82.5','1 piemonte','BI','Cossato (BI)','','','','JN45CN','ari trivero');
@@ -58,6 +58,7 @@ INSERT INTO repeaters VALUES('R5a','145,737.5','-600 kHz','127.3','1 piemonte','
 INSERT INTO repeaters VALUES('R6','145,750.0','-600 kHz','110.9','1 piemonte','AL','Fraconalto (AL)','','','','JN44KO','radio club tigullio');
 INSERT INTO repeaters VALUES('R6','145,750.0','-600 kHz','82.5','1 piemonte','CN','Bagnolo Piemonte (CN)','C4FM','IR1B','','JN34PS','ari pinerolo');
 INSERT INTO repeaters VALUES('R6','145,750.0','-600 kHz','67.0','1 piemonte','VB','M.Moncucco (VB)','','','','JN46DC','iw1bzh');
+INSERT INTO repeaters VALUES('R6a','145,762.5','-600 kHz','162.2','1 piemonte','AL','Fracconalto (AL)','','','','JN44KO','i1ugaa');
 INSERT INTO repeaters VALUES('R6a','145,762.5','-600 kHz','127.3','1 piemonte','CN','Mondovi'' (CN)','C4FM','IR1I','','JN34WJ','ari mondovi''');
 INSERT INTO repeaters VALUES('R6a','145,762.5','-600 kHz','107.2','1 piemonte','TO','Sestriere (TO)','','','','JN34KX','iz1gct');
 INSERT INTO repeaters VALUES('R6a','145,762.5','-600 kHz','82.5','1 piemonte','TO','Castellamonte (TO)','EL','','206277','JN35UK','ik1bqd');
@@ -129,6 +130,7 @@ INSERT INTO repeaters VALUES('RU','430,962.5','+5.0 MHz','','1 piemonte','TO','T
 INSERT INTO repeaters VALUES('RU','430,987.5','+5.0 MHz','','1 piemonte','CN','Frabosa Soprana (CN)','DMR','IZ1EZN','','JN34VG','ik1jtd');
 INSERT INTO repeaters VALUES('RU16a','431,237.5','+1.6 MHz','94.8','1 piemonte','TO','Celle-Villardora (TO)','','','','JN35QD','ik1ybm');
 INSERT INTO repeaters VALUES('RU20','431,325.0','+1.6 MHz','82.5','1 piemonte','CN','Cocconato (AT)','','','','JN35XD','iz1dyb ik1vdi');
+INSERT INTO repeaters VALUES('RU24','431,425.0','+1.6 MHz','82.5','1 piemonte','AL','Acqui Terme (AL)','','IR1UGL','','JN44FQ','ari acqui terme iz1mlj');
 INSERT INTO repeaters VALUES('RU25a','431,462.5','+1.6 MHz','82.5','1 piemonte','AL','Coniolo (AL)','','','','JN45ED','ari casale monferrato');
 INSERT INTO repeaters VALUES('RU0a rev','431,487.5','+1.6 MHz','','1 piemonte','BI','Oropa (BI)','DS','IR1UHA','','JN35XO','rnre');
 INSERT INTO repeaters VALUES('RU28','431,525.0','+1.6 MHz','67.0','1 piemonte','VB','M.Mottarone (VB)','','','','JN45FV','ari domodossola iw1bzh');
@@ -136,7 +138,7 @@ INSERT INTO repeaters VALUES('RU','431,600.0','+6.350 MHz','131.8','1 piemonte',
 INSERT INTO repeaters VALUES('T','435,212.5','0','110.9','1 piemonte','AL','Ovada (AL)','','','','JN44HO','ik1hxm');
 INSERT INTO repeaters VALUES('E','435,800.0','0','71.9','1 piemonte','AL','M.Giarolo (AL)','EL','','157311','JN45LA','ik2bat');
 INSERT INTO repeaters VALUES('RM0','1,297,000.0','-6 MHz','','1 piemonte','TO','Aquila di Giaveno (TO)','EL','','903078','JN35PA','ik1evq iz1tmf');
-INSERT INTO repeaters VALUES('50 MHz','51,870.0','-600 kHz','82,5','1 liguria','SV','Carcare (SV)','','','','JN44CI','ik1ipu');
+INSERT INTO repeaters VALUES('50 MHz','51,870.0','-600 kHz','82,5','1 liguria','SV','Carcare (SV)','','IU1HHK','','JN44CI','iu1hhk');
 INSERT INTO repeaters VALUES('T','144,612.5','0','82.5','1 liguria','GE','Masone (GE)','','','','JN44IL','ik1hxm');
 INSERT INTO repeaters VALUES('E','144,625.0','0','110.9','1 liguria','SP','Brugnato -Val di Vara','EL','','813447','JN44uf','iz1zct');
 INSERT INTO repeaters VALUES('HotSpot','144,725.0','0','','1 liguria','SV','Cisano sul Neva (SV)','C4FM','IZ1MKB','','JN44BC','iz1mkb');
@@ -177,7 +179,7 @@ INSERT INTO repeaters VALUES('R5','145,725.0','-600 kHz','110.9','1 liguria','GE
 INSERT INTO repeaters VALUES('R5a','145,737.5','-600 kHz','162.2','1 liguria','IM','Imperia','','','','JN43AV','era imperia');
 INSERT INTO repeaters VALUES('R5a','145,737.5','-600 kHz','110.9','1 liguria','IM','Bardellini - Imperia','C4FM','IR1UGT','','JN34VB','era imperia');
 INSERT INTO repeaters VALUES('R6','145,750.0','-600 kHz','110.9','1 liguria','GE','Rapallo (GE)','C4FM','IR1ED','','JN44OI','ari rapallo');
-INSERT INTO repeaters VALUES('R6a','145,762.5','-600 kHz','','1 liguria','SV','Andora (SV)','','','','JN44BA','ari alassio -albenga');
+INSERT INTO repeaters VALUES('R6a','145,762.5','-600 kHz','110.9/162.2 loc','1 liguria','SV','M.Tirasso - Alassio (SV) (SV)','','','','JN44BA','ari alassio - albenga - diano marina');
 INSERT INTO repeaters VALUES('R7','145,775.0','-600 kHz','110.9','1 liguria','IM','Imperia','','','','JN43AV','era imperia');
 INSERT INTO repeaters VALUES('R7','145,775.0','-600 kHz','162.2','1 liguria','SV','Bergeggi (SV)','C4FM','IR1V','','JN44FG','ari savona iw1pv');
 INSERT INTO repeaters VALUES('R7a','145,787.5','-600 kHz','','1 liguria','IM','Perinaldo (IM)','','','','JN33TU','ari bordighera');
@@ -332,7 +334,7 @@ INSERT INTO repeaters VALUES('RU5','430,125.0','+1.6 MHz','','2 lombardia','VA',
 INSERT INTO repeaters VALUES('RU5','430,125.0','+1.6 MHz','','2 lombardia','VA','M.Orsa (VA)','DMR','IR2UD','','JN45KU','ari varese');
 INSERT INTO repeaters VALUES('RU5a','430,137.5','+1.6 MHz','CC1','2 lombardia','PV','Gambolo'' (PV)','DMR','IR2UFH','','JN45KG','ik2xyp');
 INSERT INTO repeaters VALUES('RU6','430,150.0','+1.6 MHz','','2 lombardia','BG','Bergamo','','','','JN45TQ','ari bergamo');
-INSERT INTO repeaters VALUES('RU6a','430,162.5','+1.6 MHz','71.9','2 lombardia','BG','M.Falecchio - Onore (BG)','','','','JN55AV','ari bergamo');
+INSERT INTO repeaters VALUES('RU6a','430,162.5','+1.6 MHz','71.9','2 lombardia','BG','M.Falecchio - Onore (BG)','','IR2UDC','','JN55AV','ari bergamo');
 INSERT INTO repeaters VALUES('RU6a','430,162.5','+1.6 MHz','','2 lombardia','BS','M.Maddalena (BS)','DMR','IR2C','','JN55DN','ari brescia');
 INSERT INTO repeaters VALUES('RU7','430,175.0','+1.6 MHz','71.9','2 lombardia','MI','Milano - Pirelli','','','','JN45OL','ari milano iw2nke');
 INSERT INTO repeaters VALUES('RU7a','430,187.0','+1.6 MHz','','2 lombardia','CO','Gravedona (CO)','DS','IR2UGK','','JN46PB','ik2zlj');
@@ -359,7 +361,7 @@ INSERT INTO repeaters VALUES('RU','430,437.5','+5.0 MHz','','2 lombardia','BG','
 INSERT INTO repeaters VALUES('RU','430,562.5','+1.6 MHz','','2 lombardia','MI','Gallarate (VA)','C4FM','IR2UEZ','','JN45JQ','ari gallarate');
 INSERT INTO repeaters VALUES('HotSpot','430,575.0','0','','2 lombardia','SO','Sondrio (SO)','DS','IZ2ZPH','','JN46WE','iz2zph');
 INSERT INTO repeaters VALUES('RU','430,662.5','+5.0 MHz','','2 lombardia','BS','M.Maddalena (BS)','C4FM','IW2KPM','','JN55DN','hb9fik');
-INSERT INTO repeaters VALUES('RU','430,675.0','+5.0 MHz','CC1','2 lombardia','VA','Gallarate (VA)','DMR','IZ2TWX','','JN45JP','iz2twx');
+INSERT INTO repeaters VALUES('RU','430,675.0','+5.0 MHz','CC2','2 lombardia','VA','Gallarate (VA)','DMR','IZ2TWX','','JN45JP','iz2twx');
 INSERT INTO repeaters VALUES('RU','430,687.5','+5.0 MHz','','2 lombardia','BS','Villanuova su Clisi (BS)','C4FM','IR2UFK','','JN55FO','polo positivo iz2bks');
 INSERT INTO repeaters VALUES('RU','430,712.5','+5.0 MHz','CC1','2 lombardia','CO','Pizzo Tre Termini (CO)','DMR','IR2UBA','','JN45NT','ik2qca');
 INSERT INTO repeaters VALUES('RU','430,750.0','+5.0 MHz','','2 lombardia','CO','M.Boletto (CO)','C4FM','IZ2EVE','','JN45JI','iz2eve');
@@ -376,7 +378,7 @@ INSERT INTO repeaters VALUES('HotSpot','431,162.5','0','','2 lombardia','BS','Su
 INSERT INTO repeaters VALUES('RU','431,162.5','+1.6 MHz','CC2  71.9','2 lombardia','CO','M.Bisbino (CO)','DMR','IR2UGQ','','JN45MU','iw2huz');
 INSERT INTO repeaters VALUES('RU','431,187.5','+1.6 MHz','156.7','2 lombardia','BS','Brione (BS)','','','','JN55BO','iw2kpm');
 INSERT INTO repeaters VALUES('RU16a','431,237.5','+1.6 MHz','CC1','2 lombardia','BS','Brescia','DMR','IR2UFZ','','JN55CM','dmr brescia');
-INSERT INTO repeaters VALUES('RU16a','431,237.5','+1.6 MHz','CC2 100.0','2 lombardia','MI','Milano Pirelli','DMR','IU2CIQ','','JN45OL','iu2ciq');
+INSERT INTO repeaters VALUES('RU16a','431,237.5','+1.6 MHz','CC2 100.0','2 lombardia','MI','Milano - Affori','DMR','IU2CIQ','','JN45OL','iu2ciq');
 INSERT INTO repeaters VALUES('RU17','431,250.0','+1.6 MHz','71.9','2 lombardia','PV','M.Penice (PV)','C4FM','IR2UEF','','JN45TJ','iw2mil');
 INSERT INTO repeaters VALUES('RU17','431,250.0','+1.6 MHz','88.5','2 lombardia','SO','Colico (LC)','LN','','','JN46OK','cisar valtellina');
 INSERT INTO repeaters VALUES('RU17','431,250.0','+1.6 MHz','88.5','2 lombardia','SO','Dubino (SO)','LN','','','JN46RD','cisar');
@@ -392,6 +394,7 @@ INSERT INTO repeaters VALUES('RU23a','431,412.5','+1.6 MHz','CC1','2 lombardia',
 INSERT INTO repeaters VALUES('RU24','431,425.0','+1.6 MHz','CC1','2 lombardia','VA','Olgiate Olona (VA)','DMR','IK2UIZ','','JN45KP','ik2uiz');
 INSERT INTO repeaters VALUES('RU24a','431,437.5','+1.6 MHz','','2 lombardia','MI','Milano - Pirelli','DS','IR2UDY','','JN45OL','ari milano iu2ciq');
 INSERT INTO repeaters VALUES('RU25','431,450.0','+1.6 MHz','71.9','2 lombardia','VA','Campo dei Fiori (VA)','C4FM','IR2UGM','','JN45JU','iw2epb');
+INSERT INTO repeaters VALUES('RU25a','431,462.5','+1.6 MHz','CC1','2 lombardia','MI','Milano','DMR','IK2ILW','','JN45OL','ari c.r.l.');
 INSERT INTO repeaters VALUES('RU27','431,500.0','+1.6 MHz','71.9','2 lombardia','VA','M. Sasso del Ferro - Laveno (VA)','DMR','IQ2BJ','223275','JN45HV','hb9gfg iz2qcp');
 INSERT INTO repeaters VALUES('RU27a','431,512.5','+1.6 MHz','','2 lombardia','LC','Valcava (LC)','DMR','IR2UED','','JN45SS','cisar orobie dmr brescia');
 INSERT INTO repeaters VALUES('RU28','431,525.0','+1.6 MHz','CC1','2 lombardia','BS','Desenzano - Castello (BS)','DMR','IR2UFR','','JN55GL','dmr brescia');
@@ -407,6 +410,7 @@ INSERT INTO repeaters VALUES('HotSpot','432,187.5','0','','2 lombardia','BS','Is
 INSERT INTO repeaters VALUES('E','432,525.0','0','71.9','2 lombardia','CO','Lomazzo (CO)','EL','','504610','JN45MQ','ari lomazzo ik2xde');
 INSERT INTO repeaters VALUES('E','432,650.0','0','71.9','2 lombardia','LC','Barzio (LC)','EL','','604382','JN45RW','iw2ohi');
 INSERT INTO repeaters VALUES('HotSpot','432,700.0','0','','2 lombardia','MI','Gorgonzola (MI)','C4FM','IZ2NBD','','JN45QM','iz2nbd');
+INSERT INTO repeaters VALUES('HotSpot','432,725.0','0','','2 lombardia','BS','Temu'' (BS)','C4FM','IK2MLV','','JN56FG','ik2mlv');
 INSERT INTO repeaters VALUES('HotSpot','433,100.0','0','','2 lombardia','SO','Bormio (SO)','DS','IK2ZDV','','JN56EL','ik2zdv');
 INSERT INTO repeaters VALUES('HotSpot','433,200.0','0','','2 lombardia','SO','Morbegno (SO)','DS','IW2ESL','','JN46SD','iw2esl');
 INSERT INTO repeaters VALUES('T','433,512.5','0','156.7','2 lombardia','CO','Pigra - Valle d''Intelvi (CO)','','','','JN45NW','iz2dpx');
@@ -433,7 +437,7 @@ INSERT INTO repeaters VALUES('RV','144,950.0','+600 kHz','131.8','3 veneto','TV'
 INSERT INTO repeaters VALUES('T','145,287.5','0','131.8','3 veneto','BL','M.Marmolada (BL)','','','','JN56WK','cisar agordo ik3mui');
 INSERT INTO repeaters VALUES('E','145,325.0','0','131.8','3 veneto','BL','Passo Giau (BL)','EL-SVX','','986024','JN66AL','iu3gqh');
 INSERT INTO repeaters VALUES('E','145,337.5','0','67.0','3 veneto','TV','Povegliano (TV)','EL','','447842','JN65CS','iz3snr');
-INSERT INTO repeaters VALUES('T','145,350.0','0','94.8','3 veneto','BL','Gosaldo (BL)','','','','JN56XF','r.c.cime bianche ik3mui');
+INSERT INTO repeaters VALUES('T','145,350.0','0','127.3','3 veneto','BL','Gosaldo (BL)','','','','JN56XF','r.c.cime bianche ik3mui');
 INSERT INTO repeaters VALUES('T','145,375.0','0','94.8','3 veneto','BL','Selva di Cadore (BL)','','','','JN66AK','cisar agordo ik3mui');
 INSERT INTO repeaters VALUES('RV','145,562.5','-600 kHz','94.8','3 veneto','VI','Cerealto (VI)','','','','JN55PO','ari agno chiampo');
 INSERT INTO repeaters VALUES('RV-1','145,575.0','-600 kHz','','3 veneto','VI','M.Grappa (VI)','C4FM','IR3DI','','JN55UU','i3zni');
@@ -450,11 +454,11 @@ INSERT INTO repeaters VALUES('R5','145,725.0','-600 kHz','','3 veneto','VI','Bas
 INSERT INTO repeaters VALUES('R5','145,725.0','-600 kHz','94.8','3 veneto','VR','Bosco Chiesa Nuova (VR)','','','','JN55MO','ari verona');
 INSERT INTO repeaters VALUES('R7','145,775.0','-600 kHz','94.8','3 veneto','VR','M.Pastelletto (VR)','','','','JN55KO','iz3meg -i3vhf');
 INSERT INTO repeaters VALUES('R7a','145,787.5','-600 kHz','131.8','3 veneto','BL','M.Rite (BL)','','','','JN66CJ','ari belluno');
-INSERT INTO repeaters VALUES('R7a','145,787.5','-600 kHz','94.8','3 veneto','VI','M.Campomolon (VI)','','','','JN55PU','in3riy');
+INSERT INTO repeaters VALUES('R7a','145,787.5','-600 kHz','94.8','3 veneto','VI','M.Campomolon (VI)','EL-SVX','','348273','JN55PU','in3riy');
 INSERT INTO repeaters VALUES('RU0a','430,012.5','+5.0 MHz','','3 veneto','VE','Chioggia (VE)','DS','IR3DA','','JN65DE','ari chioggia');
 INSERT INTO repeaters VALUES('RU1','430,025.0','+1.6 MHz','94.8','3 veneto','BL','Belluno','','','','JN66CD','radio club belluno');
 INSERT INTO repeaters VALUES('RU1','430,025.0','+1.6 MHz','','3 veneto','VI','M.Grappa (VI)','','','','JN55UT','iw3hpk');
-INSERT INTO repeaters VALUES('RU1','430,025.0','+1.6 MHz','94.8','3 veneto','VR','Verona','','','','JN55LJ','ari verona');
+INSERT INTO repeaters VALUES('RU1','430,025.0','+1.6 MHz','94.8','3 veneto','VR','Verona','EL','','440928','JN55LJ','ari verona');
 INSERT INTO repeaters VALUES('RU2','430,050.0','+5.025 MHz','94.8','3 veneto','VR','M.Baldo (VR)','','','','JN55KR','ari verona');
 INSERT INTO repeaters VALUES('RU2a','430,062.5','+1.6 MHz','','3 veneto','BL','M.Rite (BL)','','','','JN66DL','ari belluno');
 INSERT INTO repeaters VALUES('RU3','430,075.0','+1.6 MHz','94.8','3 veneto','VI','Creazzo (VI)','EL','','677889','JN55RM','ari vicenza');
@@ -482,7 +486,7 @@ INSERT INTO repeaters VALUES('RU','430,450.0','+5.0 MHz','','3 veneto','VR','San
 INSERT INTO repeaters VALUES('RU','430,462.5','+7.4 MHz','','3 veneto','BL','M.Marmolada (BL)','DMR','IR3AO','','JN56WK','cisar agordo ik3mui');
 INSERT INTO repeaters VALUES('RU','430,475.0','+5.0 MHz','','3 veneto','PD','M.Ricco (PD)','DS','IR3UEF','','JN55UG','ari chioggia');
 INSERT INTO repeaters VALUES('RU','430,487.5','+7.4 MHz','','3 veneto','BL','M.Marmolada (BL)','EL-SVX','','55883','JN56WK','cisar alto adige / dolomites radio club');
-INSERT INTO repeaters VALUES('RU','430,500.0','+5.0 MHz','CC3','3 veneto','RO','Adria (RO','DMR','IR3UCN','','JN65AB','cisar rovigo');
+INSERT INTO repeaters VALUES('RU','430,500.0','+5.0 MHz','CC3  94.8','3 veneto','RO','Adria (RO','DMR','IR3UCN','','JN65AB','cisar rovigo');
 INSERT INTO repeaters VALUES('RU','430,500.0','+5.0 MHz','','3 veneto','TV','Treviso','','','','JN65CQ','iz3hpc');
 INSERT INTO repeaters VALUES('RU','430,500.0','+5.0 MHz','','3 veneto','VE','Venezia','C4FM','','','JN65DK','gestione fantasma');
 INSERT INTO repeaters VALUES('RU','430,512.5','+5.0 MHz','131.8','3 veneto','BL','Passo Giau (BL)','DMR','IU3GQH','','JN66AL','iu3gqh');
@@ -490,6 +494,7 @@ INSERT INTO repeaters VALUES('RU','430,525.0','+5.0 MHz','94.8','3 veneto','VE',
 INSERT INTO repeaters VALUES('RU','430,537.5','+5.0 MHz','94.8','3 veneto','VI','Roana - Altpiano Asiago (VI)','','','','JN55RV','iz3klf');
 INSERT INTO repeaters VALUES('RU','430,587.5','+5.0 MHz','94.8','3 veneto','VI','M.Corno (VI)','','','','JN55ST','ik3hhp ik3wuz');
 INSERT INTO repeaters VALUES('RU','430,637.5','+5.0 MHz','','3 veneto','BL','M.Marmolada (BL)','DMR','IR3AO','','JN56WK','cisar agordo  ik3mui');
+INSERT INTO repeaters VALUES('RU','430,675.0','+5.0 MHz','CC3','3 veneto','RO','Lendinara (RO)','DMR','IR3AH','223370','JN55TB','cisar rovigo');
 INSERT INTO repeaters VALUES('RU','430,700.0','+5.0 MHz','CC1','3 veneto','TV','M.Cesen (TV)','DMR','IR3UDD','','JN65AW','cisar zerobranco');
 INSERT INTO repeaters VALUES('RU','430,775.0','+5.0 MHz','CC1','3 veneto','RO','Rovigo','DMR','IR3UEN','','JN55VB','cisar rovigo');
 INSERT INTO repeaters VALUES('RU','430,812.5','+5.0 MHz','','3 veneto','VI','Conco (VI)','DMR','IR3QQW','','JN55TT','ik3wuz');
@@ -523,13 +528,13 @@ INSERT INTO repeaters VALUES('T','433,462.5','0','','3 veneto','BL','Selva di Ca
 INSERT INTO repeaters VALUES('T','433,462.5','0','','3 veneto','BL','Gosaldo (BL)','','','','JN66XF','r.c.cime bianche ik3mui');
 INSERT INTO repeaters VALUES('T','433,987.5','0','131.8','3 veneto','BL','M.Marmolada (BL)','','','','JN56WK','cisar agordo ik3mui');
 INSERT INTO repeaters VALUES('RM0','1,297,000.0','-30 MHz','','3 veneto','VE','Chioggia (VE)','DS','IR3DA','','JN65DE','ari chioggia');
+INSERT INTO repeaters VALUES('RM4','1,297,100.0','-30 MHz','','3 veneto','VR','S.Mauro di Saline (VR)','DS','IR3UG','','JN55NN','ari verona');
 INSERT INTO repeaters VALUES('RM7','1,297,175.0','-6 MHz','','3 veneto','VR','San Mauro di Saline (VR)','','','','JN55NN','ari verona');
 INSERT INTO repeaters VALUES('RM9','1,297,225.0','-6 MHz','','3 veneto','PD','M.Ricco (PD)','DS','IR3UEF','','JN55UG','ari chioggia');
 INSERT INTO repeaters VALUES('RM16','1,297,400.0','-30 MHz','','3 veneto','VI','M.Grappa (VI)','','','','JN55UU','ari monte grappa i3zni');
 INSERT INTO repeaters VALUES('RM','1,297,950.0','-30 MHz','','3 veneto','TV','Montello (TV)','','','','JN65BT','ari treviso');
 INSERT INTO repeaters VALUES('T','144,562.5','0','77.0','3n trentino a.a.','TN','M.Stino (TN)','EL-SVX','','','JN55EQ','polo positivo');
 INSERT INTO repeaters VALUES('T','144,587.5','0','77.0','3n trentino a.a.','TN','Pinzolo Doss del Sabbion (TN)','EL','','471170','JN56JD','polo positivo');
-INSERT INTO repeaters VALUES('T','144,612.5','0','','3n trentino a.a.','TN','Polsa di Brentonico (TN)','','','','JN55LS','in3cbn');
 INSERT INTO repeaters VALUES('T','144,673.0','0','','3n trentino a.a.','BZ','M.Seceda (BZ)','allmode','','','JN56UO','cisar a.a./amateur r.c. ladinia');
 INSERT INTO repeaters VALUES('E','144,675.0','0','','3n trentino a.a.','BZ','San Martino Badia (BZ)','EL','','507490','JN56WQ','in3ecs');
 INSERT INTO repeaters VALUES('T','144,700.0','o','','3n trentino a.a.','BZ','Bolzano','C4FM','','','JN56PL','in3exl');
@@ -542,10 +547,8 @@ INSERT INTO repeaters VALUES('T','145,312.5','0','123.0-1750','3n trentino a.a.'
 INSERT INTO repeaters VALUES('T out','145,312.5','0','123.0','3n trentino a.a.','TN','Ciampedie'' - Vigo di Fassa (TN)','EL','','967817','JN56TK','in3fpj');
 INSERT INTO repeaters VALUES('T','145,337.5','0','77.0','3n trentino a.a.','TN','Passo Campo Carlomagno (TN)','EL-SVX','','','JN56JD','polo positivo');
 INSERT INTO repeaters VALUES('RV','145,550.0','-600 kHz','123.0','3n trentino a.a.','TN','M. Paganella (TN)','EL-SVX','','348273','JN56MD','iw3byl');
-INSERT INTO repeaters VALUES('RV','145,550.0','-600 kHz','123.0','3n trentino a.a.','TN','Valle di Ledro (TN)','','','','JN55IV','in3dns');
 INSERT INTO repeaters VALUES('T','145,562.5','0','123.0','3n trentino a.a.','BZ','M.Seceda (BZ)','','','','JN56OL','cisar a.a./amateur r.c. ladinia');
 INSERT INTO repeaters VALUES('RV-1','145,575.0','-600 kHz','','3n trentino a.a.','BZ','M.Plose (BZ)','DS','IR3UAP','','JN56UQ','cisar alto adige / dolomites radio club');
-INSERT INTO repeaters VALUES('RV-1','145,575.0','-600 kHz','123.0','3n trentino a.a.','TN','M.Panarotta (TN)','','','','JN56QB','in3riy');
 INSERT INTO repeaters VALUES('R0','145,600.0','-950 kHz','','3n trentino a.a.','TN','M.Bondone (TN)','C4FM','IN3EEW','','JN56MA','in3eew');
 INSERT INTO repeaters VALUES('R1','145,625.0','-600 kHz','123.0','3n trentino a.a.','TN','Polsa di Brentonico (TN)','C4FM','IR1Z','','JN55LS','ari rovereto');
 INSERT INTO repeaters VALUES('R1a','145,637.5','-600 kHz','','3n trentino a.a.','TN','M.Panarotta (TN)','','','','JN56QB','in3gxb');
@@ -568,7 +571,7 @@ INSERT INTO repeaters VALUES('RU4a','430,112.5','+5.0 MHz','','3n trentino a.a.'
 INSERT INTO repeaters VALUES('RU5','430,125.0','+1.6 MHz','136.5','3n trentino a.a.','TN','Passo Gobbera (TN)','EL-SVX','','348273','JN56MD','ari primiero');
 INSERT INTO repeaters VALUES('RU7','430,175.0','+1.6 MHz','123.0','3n trentino a.a.','TN','M.Agnello (TN)','EL-SVX','','348273','JN56SH','in3uvs');
 INSERT INTO repeaters VALUES('RU8','430,200.0','+5.0 MHz','','3n trentino a.a.','TN','M. Finonchio (TN)','C4FM','IR3UJB','','JN55NW','ari rovereto');
-INSERT INTO repeaters VALUES('RU11','430,275.0','+5.0 MHz','123.0','3n trentino a.a.','TN','Polsa di Brentonico (TN)','EL-SVX','','348273','JN55LS','in3riy');
+INSERT INTO repeaters VALUES('RU11a','430,287.5','+5.0 MHz','123.0','3n trentino a.a.','TN','Polsa di Brentonico (TN)','EL-SVX','','348273','JN55LS','in3riy');
 INSERT INTO repeaters VALUES('RU','430,400.0','+5.0 MHz','123.0','3n trentino a.a.','BZ','Bolzano','C4FM','IN3EXL','','JN56PL','in3exl');
 INSERT INTO repeaters VALUES('RU','430,475.0','+5.0 MHz','123.0','3n trentino a.a.','TN','M.Panarotta - Rigolor (TN)','EL-SVX','','348273','JN56PB','radio club valsugana');
 INSERT INTO repeaters VALUES('RU','430,500.0','+5.0 MHz','','3n trentino a.a.','TN','Trento','DMR','IW3BYL','','JN56NC','iw3byl');
@@ -579,13 +582,13 @@ INSERT INTO repeaters VALUES('RU','430,550.0','+5.0 MHz','','3n trentino a.a.','
 INSERT INTO repeaters VALUES('RU','430,575.0','+5.0 MHz','123.0','3n trentino a.a.','BZ','Belpiano-Resia-Schöneben (BZ)','EL-SVX','','55883','JN56FT','cisar alto adige / dolomites radio club');
 INSERT INTO repeaters VALUES('RU','430,887.5','+5.0 MHz','CC1','3n trentino a.a.','TN','Levico Terme (TN)','DMR','IN3EQA','','JN56PA','in3eqa');
 INSERT INTO repeaters VALUES('RU','430,900.0','+5.0 MHz','123,0','3n trentino a.a.','TN','Alpe Cermis -Cavalese (TN)','EL-SVX','','348273','JN56VM','in3xfq');
-INSERT INTO repeaters VALUES('RU','430,912.5','+5.0 MHz','CC1','3n trentino a.a.','BZ','M.Plose (BZ)','DMR','IW3BTS','','JN56UQ','iw3bts');
+INSERT INTO repeaters VALUES('RU','430,912.5','+5.0 MHz','CC1','3n trentino a.a.','BZ','M.Plose (BZ)','DMR','IR3UJJ','','JN56UQ','iw3bts');
 INSERT INTO repeaters VALUES('RU','430,925.0','+5.0 MHz','CC1','3n trentino a.a.','TN','Alpe Cermis -Cavalese (TN)','DMR','IN3ELZ','','JN56VM','in3elz');
 INSERT INTO repeaters VALUES('RU','430,937.5','+5.0MHz','CC1','3n trentino a.a.','BZ','Bolzano','DMR','IR3UJH','','JN56PL','iw3bts');
 INSERT INTO repeaters VALUES('RU','430,937.5','+5.0 MHz','CC1','3n trentino a.a.','TN','Polsa di Brentonico (TN)','DMR','IR3UDY','','JN55LS','in3cbn');
 INSERT INTO repeaters VALUES('RU','430,950.0','+5.0 MHz','CC1','3n trentino a.a.','TN','Passo Brocon (TN)','DMR','IQ3VN','','JN56UC','radio club valsugana');
 INSERT INTO repeaters VALUES('RU','430,962.5','+5.0 MHz','CC1','3n trentino a.a.','TN','M.Paganella (TN)','DMR','IR3UJI','','JN56MD','iw3byl');
-INSERT INTO repeaters VALUES('RU','430,987.5','+5.0 MHz','CC1','3n trentino a.a.','BZ','M.Macaion (BZ)','DMR','IW3BTS','','JN56OL','iw3bts');
+INSERT INTO repeaters VALUES('RU','430,987.5','+5.0 MHz','CC1','3n trentino a.a.','BZ','M.Macaion (BZ)','DMR','IR3UJL','','JN56OL','iw3bts');
 INSERT INTO repeaters VALUES('RU18','431,275.0','+1.6 MHz','','3n trentino a.a.','BZ','M.Cavallaccio (BZ)','2D','IR3EB','','JN56FO','cisar alto adige / dolomites radio club');
 INSERT INTO repeaters VALUES('RU21a','431,362.5','+1.6 MHz','123.0','3n trentino a.a.','BZ','Passo Giovo (BZ)','EL-SVX','','55883','JN56PU','cisar alto adige / dolomites radio club');
 INSERT INTO repeaters VALUES('RU22','431,375.0','+1.6 MHz','123.0','3n trentino a.a.','BZ','M.Plose (BZ)','EL-SVX','','55883','JN56UQ','cisar alto adige / dolomites radio club');
@@ -600,6 +603,7 @@ INSERT INTO repeaters VALUES('T in','433,025.0','0','123.0','3n trentino a.a.','
 INSERT INTO repeaters VALUES('E','433,050.0','0','','3n trentino a.a.','TN','Levico Terme (TN)','','','','JN56PA','in3eqa');
 INSERT INTO repeaters VALUES('HotSpot','433,600.0','0','','3n trentino a.a.','TN','Livo di Trento (TN)','DS','IN3IZQ','','JN56MJ','in3izq');
 INSERT INTO repeaters VALUES('T','435,025.0','0','','3n trentino a.a.','BZ','M.Seceda (BZ)','','','','JN56UO','cisar alto adige /dolomites r.c.');
+INSERT INTO repeaters VALUES('RM12','1,297,300.0','-6 MHz','','3n trentino a.a.','TN','M. Paganella (TN)','EL-SVX','','348273','JN56MD','iw3byl');
 INSERT INTO repeaters VALUES('HotSpot','144,675.0','0','','3v friuli v.g.','UD','Corno di Rosazzo (UD)','DS','IR3UIE','','JN65RX','iv3yxw');
 INSERT INTO repeaters VALUES('E','144,700.0','0','123.0','3v friuli v.g.','PN','Pordenone','EL','','360117','JN65HX','iv3mtu');
 INSERT INTO repeaters VALUES('E','145,337.5','0','','3v friuli v.g.','GO','Ronchi dei Legionari (GO)','EL','','640248','JN65RT','iv3fvk');
@@ -645,14 +649,14 @@ INSERT INTO repeaters VALUES('RM1','1,297,025.0','-6 MHz','123.0','3v friuli v.g
 INSERT INTO repeaters VALUES('RM19','1,297,475.0','-6 MHz','','3v friuli v.g.','TS','Trieste','DS','IR3UFP','','JN65VP','cisar trieste');
 INSERT INTO repeaters VALUES('RM','1,297,925.0','-30 MHz','118.8','3v friuli v.g.','TS','M.Belvedere (TS)','EL','','394302','JN65UQ','cisar trieste  iw3row');
 INSERT INTO repeaters VALUES('RM','1,297,975.0','-30 MHz','82.5','3v friuli v.g.','PN','M.Gaiardin (PN)','','','','JN66FA','cisar pordenone');
-INSERT INTO repeaters VALUES('29 MHz','29,610.0','-100 kHz','77.0','4 emilia r.','RN','M.Pincio (RN)','','','','JN63DV','cisar riccione il passatore');
+INSERT INTO repeaters VALUES('29 MHz','29,660.0','-100 kHz','77.0','4 emilia r.','RN','M.Pincio (RN)','','','','JN63DV','cisar riccione il passatore');
 INSERT INTO repeaters VALUES('T','50,700.0','0','','4 emilia r.','MO','Monfestino-Serramazzoni (MO)','EL','','230103','JN54JK','ari modena iz4efn');
 INSERT INTO repeaters VALUES('50 MHz','50,700.0','0','','4 emilia r.','MO','Monfestino-Serramazzoni (MO)','','','','JN54JK','ari modena iz4efn');
 INSERT INTO repeaters VALUES('HotSpot','144,612.5','0','','4 emilia r.','FC','San Giovanni in Galilea (FC)','DS','IQ4JO','','JN64EA','cisar riccione il passatore');
 INSERT INTO repeaters VALUES('T','144,662.5','0','77.0','4 emilia r.','BO','Bologna','EL-SVX','','471170','JN54QL','polo positivo');
 INSERT INTO repeaters VALUES('T in','144,662.5','0','131.8','4 emilia r.','MO','Spilamberto (MO','','','','','radio club l.a.m. iz4hbz');
+INSERT INTO repeaters VALUES('T','144,712.5','input','141,3','4 emilia r.','RA','M.Pietramora (RA)','EL','IR4UBS','257343','JN54WE','iz4rcu iu4leg');
 INSERT INTO repeaters VALUES('HotSpot','144,865.0','0','','4 emilia r.','RA','Faenza (RA)','C4FM','IU4HNI','','JN54WG','iu4hni');
-INSERT INTO repeaters VALUES('T','145,362.5','input','77.0','4 emilia r.','RA','M.Pietramora (RA)','EL','','557567','JN54WE','iz4rcu');
 INSERT INTO repeaters VALUES('HotSpot','145,375.0','0','','4 emilia r.','PC','Piacenza','DS','IQ4WP','','JN45UB','iw4cez');
 INSERT INTO repeaters VALUES('E','145,425.0','0','77.0','4 emilia r.','MO','Cognento (MO)','EL','','800776','JN54KP','iw1giw');
 INSERT INTO repeaters VALUES('RV','145,562.5','-600 kHz','','4 emilia r.','MO','M.Cimone (MO)','DS','IR4MO','','JN54IE','radio club l.a.m. Iz4hbz');
@@ -733,7 +737,7 @@ INSERT INTO repeaters VALUES('RU21','431,350.0','+1.6 MHz','77.0','4 emilia r.',
 INSERT INTO repeaters VALUES('RU23a','431,412.5','+1.6 MHz','77.0','4 emilia r.','FC','Monte Cavallo (FC)','3D','IR4UCJ','','JN64DD','iw4bpo');
 INSERT INTO repeaters VALUES('RU24a','431,437.5','+1.6 MHz','141.3','4 emilia r.','FC','Modigliana (FC)','','','','JN54VD','aari-cb lugo');
 INSERT INTO repeaters VALUES('RU26','431,475.0','+1.6 MHz','','4 emilia r.','MO','M.Cimone (MO)','DMR','','','JN54IE','radio club l.a.m. iz4hbz');
-INSERT INTO repeaters VALUES('T','431,587.5','output','77.0','4 emilia r.','RA','M.Pietramora (RA)','EL','','557567','JN54WE','iz4rcu');
+INSERT INTO repeaters VALUES('T','431,587.5','output','141.3','4 emilia r.','RA','M.Pietramora (RA)','EL','IR4UBS','257343','JN54WE','iz4rcu iu4leg');
 INSERT INTO repeaters VALUES('T out','432,637.5','0','131.8','4 emilia r.','MO','Spilamberto (MO','','','','','radio club l.a.m. iz4hbz');
 INSERT INTO repeaters VALUES('T','435,925.0','output','77.0','4 emilia r.','FC','Santa Sofia (FC)','EL','','885697','JN53UU','iz4okn');
 INSERT INTO repeaters VALUES('RM8','1,297,200.0','-6 MHz','','4 emilia r.','FC','Monte Maggio-Bertinoro (FC)','','','','JN64BD','iw4cvv');
@@ -770,7 +774,7 @@ INSERT INTO repeaters VALUES('R2','145,650.0','-600 kHz','1750','5 toscana','GR'
 INSERT INTO repeaters VALUES('R3','145,675.0','-600 kHz','1750','5 toscana','GR','Montieri (GR)','','','','JN53LD','ari etruria piombino');
 INSERT INTO repeaters VALUES('R3a','145,687.5','-600 kHz','79.7','5 toscana','MS','Campocecina (MS)','','','','JN54BC','cisar alpi apuane');
 INSERT INTO repeaters VALUES('R4','145,700.0','-600 kHz','79,7','5 toscana','PI','Volterra (PI)','C4FM','IR5J','','JN53LK','ari pontedera iw5amb');
-INSERT INTO repeaters VALUES('R4a','145,712.5','-600 kHz','136.5','5 toscana','GR','M.Labro (GR)','C4FM','IR5AH','','JN52SU','aral  ik5edw');
+INSERT INTO repeaters VALUES('R4a','145,712.5','-600 kHz','136.5','5 toscana','GR','M.Labro (GR)','','IR5AH','','JN52SU','aral  ik5edw');
 INSERT INTO repeaters VALUES('R5','145,725.0','-600 kHz','79.7','5 toscana','LI','San Vincenzo (LI)','','','','JN53GC','ari san vincenzo');
 INSERT INTO repeaters VALUES('R5','145,725.0','-600 kHz','79.7','5 toscana','PO','Prato (PO)','','','','JN53OT','ari prato iz5raq');
 INSERT INTO repeaters VALUES('R5a','145,737.5','-600 kHz','146.2','5 toscana','FI','Poggio Valicaia (FI)','','','','JN53OS','ari scandicci');
@@ -806,6 +810,7 @@ INSERT INTO repeaters VALUES('RU12','430,300.0','+1.6 MHz','79.7','5 toscana','P
 INSERT INTO repeaters VALUES('RU12a','430,312.5','+5.0 MHz','79.7','5 toscana','LU','Monte Meto (LU)','','','','JN53DV','iw5bhu');
 INSERT INTO repeaters VALUES('RU13','430,325.0','+1.6 MHz','71.9','5 toscana','AR','Civitella della Chiana (AR)','','','','JN53UK','cisar arezzo');
 INSERT INTO repeaters VALUES('RU13','430,325.0','','146.2','5 toscana','FI','Poggio Valicaia (FI)','','','','JN53NR','ari scandicci');
+INSERT INTO repeaters VALUES('RU13a','430,337.5','+5.0 MHz','146.2','5 toscana','MS','M.Carchio','','','','JN54CA','iw5bhu');
 INSERT INTO repeaters VALUES('RU14','430,350.0','+5.0 MHz','136.5','5 toscana','GR','M.Aquilaia (GR)','','','','JN52RU','aral  iw5ees');
 INSERT INTO repeaters VALUES('RU14','430,350.0','+1.6 MHz','79.7','5 toscana','PI','M.Serra (PI)','','','','JN53GS','navacchio radio club iz5fcy');
 INSERT INTO repeaters VALUES('RU','430,400.0','+5.0 MHz','71.9','5 toscana','AR','Cortona (AR)','','','','JN53XG','uri cortona');
@@ -859,14 +864,14 @@ INSERT INTO repeaters VALUES('RM','1,270,050.0','+28 MHz','','5 toscana','SI','M
 INSERT INTO repeaters VALUES('RM0','1,297,000.0','-6 MHz','','5 toscana','LU','Montecarlo (LU)','','','','JN53IU','ari altopascio');
 INSERT INTO repeaters VALUES('RM4','1,297,100.0','-6 MHz','','5 toscana','FI','Pontassieve (FI)','','','','JN53QS','ari pontassieve i5vvo');
 INSERT INTO repeaters VALUES('RM19','1,297,475.0','-55 MHz','','5 toscana','AR','Alpe di Poti (AR)','DS','IR5UH','','JN53XL','cisar');
+INSERT INTO repeaters VALUES('T','1,297,600.0','0','','5 toscana','AR','M.Lignano (AR)','EL','','455165','JN53WJ','cisar arezzo');
 INSERT INTO repeaters VALUES('RM','1,297,700.0','-27 MHz','','5 toscana','FI','Montalbano (FI)','EL','','456490','JN53LR','ari vinci');
-INSERT INTO repeaters VALUES('50 MHz','51,890.0','-600 kHz','','6 marche','AN','Camerano (AN)','','IR6UK','','JN63SM','cisar marche ik6fgx');
+INSERT INTO repeaters VALUES('50 MHz','51,890.0','-600 kHz','','6 marche','AN','Camerano (AN)','EL-SVX','IR6UK','','JN63SM','cisar marche ik6fgx');
 INSERT INTO repeaters VALUES('E','144,600.0','0','88.5','6 marche','MC','Cingoli (MC)','EL','','357384','JN63QO','iw6dde');
 INSERT INTO repeaters VALUES('R0','145,600.0','-600 kHz','127.3','6 marche','AP','M.Ascensione (AP)','','','','JN62SW','ari ascoli piceno');
-INSERT INTO repeaters VALUES('R0a','145,612.5','-600 kHz','85.4','6 marche','AN','Camerano (AN)','','','','JN63SM','cisar ancona ik6fgx');
-INSERT INTO repeaters VALUES('R0a','145,612.5','-600 kHz','85.4','6 marche','AP','Force (AP)','C4FM','IR6H','','JN62RX','ari fermo-porto s. giorgio iz6ggw');
+INSERT INTO repeaters VALUES('R0a','145,612.5','-600 kHz','85.4','6 marche','AN','Camerano (AN)','EL-SVX','','','JN63SM','cisar ancona ik6fgx');
 INSERT INTO repeaters VALUES('R1','145,625.0','-600 kHz','85.4','6 marche','PU','Monteciccardo (PU)','EL','','7723','JN63JT','ari pesaro');
-INSERT INTO repeaters VALUES('R1a','145,637.5','-600 kHz','85.4','6 marche','FM','Monterubbiano (FM)','EL-SVX','IR6UK','590731','JN63UC','ari fermo - porto san giorgio');
+INSERT INTO repeaters VALUES('R1a','145,637.5','-600 kHz','85.4','6 marche','FM','Force (FM)','C4FM','IR6H','','JN63SB','ari fermo - porto san giorgio');
 INSERT INTO repeaters VALUES('R4','145,700.0','-600 kHz','','6 marche','AN','M.La Croce (AN)','','','','JN63LJ','cisar ancona');
 INSERT INTO repeaters VALUES('R4a','145,712.5','-600 kHz','85,4','6 marche','AP','San Benedetto del Tronto (AP)','','','','JN62WW','iz6iqa');
 INSERT INTO repeaters VALUES('R5','145,725.0','-600 kHz','85.4','6 marche','AN','Ancona','','','','JN63SO','cisar ancona');
@@ -876,10 +881,10 @@ INSERT INTO repeaters VALUES('RU7','430,175.0','+1.6 MHz','85.4','6 marche','AN'
 INSERT INTO repeaters VALUES('RU8','430,200.0','+1.6 MHz','','6 marche','AN','M.La Croce (AN)','','','','JN63LJ','cisar marche');
 INSERT INTO repeaters VALUES('RU9','430,225.0','+1.6 MHz','','6 marche','AN','Senigallia (AN)','','','','JN63OP','cisar ancona');
 INSERT INTO repeaters VALUES('RU12','430,300.0','+5.6 MHz','','6 marche','AN','Scapezzano (AN)','DMR','IR6UAG','','JN63OR','cisar marche');
-INSERT INTO repeaters VALUES('RU14','430,375.0','+5.0 MHz','','6 marche','AN','Camerano (AN)','DMR','IR6UK','','JN63SM','cisar marche');
+INSERT INTO repeaters VALUES('RU14','430,375.0','+1.6 MHz','','6 marche','AN','Camerano (AN)','DMR','IR6UK','','JN63SM','cisar marche');
 INSERT INTO repeaters VALUES('RU14','430,375.0','+5.0 MHz','','6 marche','AN','Camerano (AN)','C4FM','IR6UK','','JN63SM','cisar marche ik6fgx');
+INSERT INTO repeaters VALUES('RU','430,450.0','+5.0 MHz','88.5','6 marche','PU','Carpegna (PU)','EL-SVX','','590731','JN63DT','iu6fow');
 INSERT INTO repeaters VALUES('RU','430,462.5','+5.0 MHz','CC1','6 marche','PU','Fontecorniale (PU)','DMR','IR6UDV','','JN63JS','iw6bfe');
-INSERT INTO repeaters VALUES('RU','430,837.5','+5.0 MHz','88.5','6 marche','PU','Carpegna (PU)','EL-SVX','','590731','JN63DT','iu6fow');
 INSERT INTO repeaters VALUES('RU','430,950.0','+5.0 MHz','','6 marche','AN','Genga (AN)','DMR','IR6UI','','JN63LJ','cisar marche');
 INSERT INTO repeaters VALUES('RU','430,962.5','+5.0 MHz','CC1','6 marche','PU','Monte Nerone (PU)','DMR','IR6UCZ','','JN63GN','iz4isn');
 INSERT INTO repeaters VALUES('RU','430,987.5','+5.0 MHz','CC1','6 marche','PU','M.Palazzolo (PU)','DMR','IR6UDA','','JN63EU','iz4isn');
@@ -1038,7 +1043,7 @@ INSERT INTO repeaters VALUES('RU','430,400.0','+5.0 MHz','','7 puglia','BA','Cel
 INSERT INTO repeaters VALUES('RU','430,400.0','+5.0 MHz','','7 puglia','LE','Tricase (LE)','DS','IR7UY','','JM99EW','');
 INSERT INTO repeaters VALUES('RU','430,412.5','+5.0 MHz','82.5','7 puglia','BA','Bari','C4FM','','','JN81LA','iz7gll');
 INSERT INTO repeaters VALUES('RU','430,425.0','+5.0 MHz','CC1','7 puglia','FG','Borgo Celano (FG)','DMR','IU7MNA','','JN71UR','iu7mna');
-INSERT INTO repeaters VALUES('RU','430,425.0','+5.0 MHz','','7 puglia','LE','Lecce','DS','IR7UBY','','JN90CH','ik7koq');
+INSERT INTO repeaters VALUES('RU','430,425.0','+5.0 MHz','','7 puglia','LE','Lecce','DS','IR7UBY','','JN90CH','i7koq');
 INSERT INTO repeaters VALUES('RU','430,425.0','+5.0 MHz','CC1','7 puglia','TA','Sava','DMR','IR7UCD','','JN80SJ','iz7dow');
 INSERT INTO repeaters VALUES('RU','430,450.0','+5.0 MHz','','7 puglia','LE','Maglie (LE)','DMR','IZ7KYS','','JN90DC','iz7kys');
 INSERT INTO repeaters VALUES('RU','430,500.0','+5.0 MHz','','7 puglia','LE','Neviano (LE)','DS','IR7UBP','','JN90BC','ari lecce ik7ytq');
@@ -1293,7 +1298,7 @@ INSERT INTO repeaters VALUES('HotSpot','144,887.5','0','','0 umbria','TR','Terni
 INSERT INTO repeaters VALUES('E','145,300.0','0','88.5','0 umbria','PG','Loc. Grutti -Perugia','EL','','518474','JN62FU','iz0owl');
 INSERT INTO repeaters VALUES('RV-1','145,575.0','-600 kHz','88.5','0 umbria','PG','Assisi (PG)','EL-SVX','','590731','JN63HB','iw0red');
 INSERT INTO repeaters VALUES('R0','145,600.0','-600 kHz','1750','0 umbria','PG','M.Serano (PG)','','','','JN62JU','ari foligno');
-INSERT INTO repeaters VALUES('R0a','145,612.5','-600 kHz','','0 umbria','TR','M.Cosce (TR)','DS','IR0K','','JN62HK','ari terni');
+INSERT INTO repeaters VALUES('R0a','145,612.5','-600 kHz','','0 umbria','TR','M.Cosce (TR)','C4FM','IR0K','','JN62HK','ari terni');
 INSERT INTO repeaters VALUES('R1','145,625.0','-600 kHz','','0 umbria','PG','Gubbio (PG)','','','','JN63BI','cisar gubbio');
 INSERT INTO repeaters VALUES('R1a','145,637.5','-600 kHz','','0 umbria','PG','M.Subasio (PG)','EL','','515191','JN63IB','cisar foligno');
 INSERT INTO repeaters VALUES('R2a','145,662.5','-600 kHz','114.8','0 umbria','PG','Perugia','','','','JN63EC','cisar Assisi  iw0qmn');
